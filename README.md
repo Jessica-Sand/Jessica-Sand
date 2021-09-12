@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Jessica-Sand
+# 👋 Hi, I’m Jessica
 Depuis ma formation, en 2015, en infographie et web design, je fais du développement web. 
 J'ai ainsi pu réaliser un site en onepage pour mon groupe de musique avec HTML, CSS et Javascript fait à la main et mon portfolio avec Wordpress. 
 Les deux ne sont plus en ligne, car pour l'un, le groupe n'est plus en activité et pour le second parce qu'il n'était plus mis à jour.
